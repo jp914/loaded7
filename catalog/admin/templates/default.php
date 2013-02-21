@@ -438,6 +438,9 @@
       </div>
       
       <footer id="menu-footer">
+        <?php $BarcodeQR->url(HTTP_SERVER . $_SERVER['REQUEST_URI']); ?>
+        <?php $BarcodeQR->draw(230, "../includes/work/qr-tmp.png"); ?>
+        <img src="../includes/work/qr-tmp.png" />
         <p class="w-mark"></p>
       </footer>      
     </section>
