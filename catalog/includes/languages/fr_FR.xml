@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <data>
+    <title><![CDATA[French]]></title>
+    <code><![CDATA[fr_FR]]></code>
+    <locale><![CDATA[fr_FR.ISO-8859-1,fr_FR,french]]></locale>
+    <character_set><![CDATA[iso-8859-1]]></character_set>
+    <text_direction><![CDATA[ltr]]></text_direction>
+    <date_format_short><![CDATA[%d/%m/%Y]]></date_format_short>
+    <date_format_long><![CDATA[%A %d %B, %Y at %H:%M]]></date_format_long>
+    <time_format><![CDATA[%H:%M:%S]]></time_format>
+    <default_currency><![CDATA[EUR]]></default_currency>
+    <numerical_decimal_separator><![CDATA[]]></numerical_decimal_separator>
+    <numerical_thousands_separator><![CDATA[,]]></numerical_thousands_separator>
+    <parent_language_code><![CDATA[]]></parent_language_code>
+  </data>
+  <definitions>
+    <definition>
+      <key>my_account</key>
+      <value><![CDATA[Mon Compte]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_go_shopping</key>
+      <value><![CDATA[Faire du shopping]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_contact</key>
+      <value><![CDATA[Contactez-nous]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_shipping_returns</key>
+      <value><![CDATA[Expédition & retours]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_privacy</key>
+      <value><![CDATA[Politique de confidentialité]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_terms_conditions</key>
+      <value><![CDATA[Conditions générales de vente]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_sitemap</key>
+      <value><![CDATA[Plan du site]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_sign_in</key>
+      <value><![CDATA[Mon compte]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_my_password</key>
+      <value><![CDATA[Mon mot de passe]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_my_order_history</key>
+      <value><![CDATA[Historique de mes commandes]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_my_address_book</key>
+      <value><![CDATA[Mon carnet d'adresses]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_my_updates_alerts</key>
+      <value><![CDATA[Mes mises à jour et alertes]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_home</key>
+      <value><![CDATA[Accueil]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_specials</key>
+      <value><![CDATA[Promotions]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_new_products</key>
+      <value><![CDATA[Nouveaux Produits]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_sign_out</key>
+      <value><![CDATA[Déconnection]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_checkout</key>
+      <value><![CDATA[Commander]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>cart_contents</key>
+      <value><![CDATA[Voir panier]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>checkout</key>
+      <value><![CDATA[Commander]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_top</key>
+      <value><![CDATA[Haut]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shop</key>
+      <value><![CDATA[Magasin en ligne]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_in</key>
+      <value><![CDATA[Se connecter]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_out</key>
+      <value><![CDATA[Se deconnecter]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_male</key>
+      <value><![CDATA[Homme]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_add_comment_to_order</key>
+      <value><![CDATA[Cliquez ici pour laisser des commentaires ou des instructions spéciales pour cette commande]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>gender_female</key>
+      <value><![CDATA[Femme]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>pull_down_default</key>
+      <value><![CDATA[Sélectionner]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error</key>
+      <value><![CDATA[Des erreurs ont eu lieu au cours du processus de votre formulaire.\n\nVeuillez faire les corrections suivantes:\n\n]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error_already_submitted</key>
+      <value><![CDATA[Ce formulaire a déjà été soumis. S'il vous plaît appuyez sur OK et attendez que ce processus soit achevé.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>form_required_information</key>
+      <value><![CDATA[* Informations obligatoires]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_current_page</key>
+      <value><![CDATA[Page %s sur %d]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_products</key>
+      <value><![CDATA[Affichage de <b>%d</b> sur <b>%d</b> (sur <b>%d</b> produits)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_orders</key>
+      <value><![CDATA[Affichage de <b>%d</b> sur <b>%d</b> (sur <b>%d</b> commandes)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_reviews</key>
+      <value><![CDATA[Affichage de <b>%d</b> sur <b>%d</b> (sur <b>%d</b> avis)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_previous_page</key>
+      <value><![CDATA[[&lt;&lt;&nbsp;Retour]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_next_page</key>
+      <value><![CDATA[[Suivant&nbsp;&gt;&gt;]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_address</key>
+      <value><![CDATA[Ajouter Addresse]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_back</key>
+      <value><![CDATA[Retour]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_buy_now</key>
+      <value><![CDATA[Ajouter]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_change_address</key>
+      <value><![CDATA[Changer Addresse]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_checkout</key>
+      <value><![CDATA[Commander]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_confirm_order</key>
+      <value><![CDATA[Confirmer Commande]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_continue</key>
+      <value><![CDATA[Continuer]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_delete</key>
+      <value><![CDATA[Effacer]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_edit</key>
+      <value><![CDATA[Editer]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>apply_discount_code</key>
+      <value><![CDATA[Valider Code]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_view</key>
+      <value><![CDATA[Voir]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_view</key>
+      <value><![CDATA[Voir]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_number</key>
+      <value><![CDATA[Nombre]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_shipped_to</key>
+      <value><![CDATA[Expédié sous]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_date</key>
+      <value><![CDATA[Date]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_status</key>
+      <value><![CDATA[Statut]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_items</key>
+      <value><![CDATA[Article]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_sign_in</key>
+      <value><![CDATA[Se connecter]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_to_cart</key>
+      <value><![CDATA[Ajouter au Panier]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_reviews</key>
+      <value><![CDATA[Commentaires]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_search</key>
+      <value><![CDATA[Rechercher]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_update_cart</key>
+      <value><![CDATA[Mise à jour Panier]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_write_review</key>
+      <value><![CDATA[Ecrire un Commentaire]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>icon_in_cart</key>
+      <value><![CDATA[Ajouter dans le Panier]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>tax_rate_unknown</key>
+      <value><![CDATA[Taux de T.V.A. inconnu]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>footer</key>
+      <value><![CDATA[Copyright &copy; %s <a href="%s">%s</a><br />Powered by <a href="http://www.zenmerchant.com" target="_blank">LoadedCommerce</a>]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>index_heading</key>
+      <value><![CDATA[Bienvenue sur %s!]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>index_text</key>
+      <value><![CDATA[C'est une installation par défaut de la solution de commerce électronique Commerce Loaded, les produits affichés ont un but démonstratif, <b> aucun produit acheté ne sera livré ni facturé au client </b>. N'importe quelle information vue sur ces produits doit être traitée comme fictive.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_image_heading</key>
+      <value><![CDATA[]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_model_heading</key>
+      <value><![CDATA[Mod&egrave;le]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_products_heading</key>
+      <value><![CDATA[Produits]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_manufacturer_heading</key>
+      <value><![CDATA[Fabricant]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_quantity_heading</key>
+      <value><![CDATA[Quantitée]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_price_heading</key>
+      <value><![CDATA[Prix]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_weight_heading</key>
+      <value><![CDATA[Poids]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_buy_now_heading</key>
+      <value><![CDATA[Acheter maintenant]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>no_products_in_category</key>
+      <value><![CDATA[Il n'y a pas de produits disponibles dans cette catégorie.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_show</key>
+      <value><![CDATA[Montrer:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_categories</key>
+      <value><![CDATA[Toutes les Catégories]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_manufacturers</key>
+      <value><![CDATA[Tous les Fabricants]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>greeting_guest</key>
+      <value><![CDATA[Bienvenue! <a href="%s"> Connectez-vous </a> et <a href="%s"> voir ce qui est nouveau </a> depuis votre derni&egrave;re visite.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>greeting_customer</key>
+      <value><![CDATA[Bienvenue! Regardez %s! <a href="%s"> voir ce qui est nouveau </a> depuis votre derni&egrave;re visite!]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_sort_ascendingly</key>
+      <value><![CDATA[Par ordre %s croissant]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_sort_descendingly</key>
+      <value><![CDATA[Par ordre %s décroissant]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_create_account</key>
+      <value><![CDATA[Créer un compte]]></value>
+      <group>account</group>
+    </definition>    
+    <definition>
+      <key>button_signup</key>
+      <value><![CDATA[Inscription]]></value>
+      <group>account</group>
+    </definition>
+        <definition>
+      <key>form_validation_error</key>
+      <value><![CDATA[S'il vous plaît corriger l'erreur(s) du champ en surbrillance(s) et essayez à nouveau.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_in</key>
+      <value><![CDATA[Connection]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_out</key>
+      <value><![CDATA[Déconnexion]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_account</key>
+      <value><![CDATA[Mon compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_account</key>
+      <value><![CDATA[Editer mon Compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_password</key>
+      <value><![CDATA[Changer mot de passe]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_orders</key>
+      <value><![CDATA[Commandes]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_order_information</key>
+      <value><![CDATA[Commande N°%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_newsletters</key>
+      <value><![CDATA[Newsletters]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_notifications</key>
+      <value><![CDATA[Notifications]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book</key>
+      <value><![CDATA[Vos Addresse]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_add_entry</key>
+      <value><![CDATA[Ajouter]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_edit_entry</key>
+      <value><![CDATA[Editer]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_delete_entry</key>
+      <value><![CDATA[Effacer]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_create_account</key>
+      <value><![CDATA[Créé un compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_password_forgotten</key>
+      <value><![CDATA[Mot de passe oublié]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_in_heading</key>
+      <value><![CDATA[S'il vous plaît Connectez-vous]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_out_heading</key>
+      <value><![CDATA[Déconnectez-vous de votre compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_heading</key>
+      <value><![CDATA[Mon compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_edit_heading</key>
+      <value><![CDATA[Information sur mon compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_password_heading</key>
+      <value><![CDATA[Mot de passe de mon compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_heading</key>
+      <value><![CDATA[Mes commandes]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_information_heading</key>
+      <value><![CDATA[Commande N°%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletters_heading</key>
+      <value><![CDATA[Mes Abonnement à la Newsletter]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>notifications_heading</key>
+      <value><![CDATA[Mes Alertes produit]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_heading</key>
+      <value><![CDATA[Mon carnet d'adresses]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_add_entry_heading</key>
+      <value><![CDATA[Nouvelle adresses de livraison]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_edit_entry_heading</key>
+      <value><![CDATA[Editer adresses de livraison]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_entry_heading</key>
+      <value><![CDATA[Effacer adresses de livraison]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_heading</key>
+      <value><![CDATA[Créé un compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_success_heading</key>
+      <value><![CDATA[Votre compte a été créé!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_heading</key>
+      <value><![CDATA[Vous n'avez pas encore de compte?]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_text</key>
+      <value><![CDATA[La création d'un compte vous permet de compléter votre commande, et informer de l'état de vos commandes plus rapidement,ainsi que de passez en revue votre historique de commandes et bien plus encore.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_heading</key>
+      <value><![CDATA[Retour au Client]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_text</key>
+      <value><![CDATA[Je suis déjà client, j'ai déjà un compte ici.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_password_forgotten</key>
+      <value><![CDATA[<a href="%s">Mot de passe oublié?</a>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_login_no_match</key>
+      <value><![CDATA[Il n'y a eu aucune correspondance pour l'adresse e-mail/ou le mot de passe. S'il vous plaît essayez de nouveau.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>date_added_to_shopping_cart</key>
+      <value><![CDATA[Date d'ajout: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>sign_out_text</key>
+      <value><![CDATA[Vous avez réussi à vous déconnecter de votre compte. Votre panier a été enregistré et sera restauré la prochaine fois que vous vous connectez à nouveau.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_title</key>
+      <value><![CDATA[Mon Compte]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>information_title</key>
+      <value><![CDATA[Information]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>my_account_information</key>
+      <value><![CDATA[Afficher ou modifier les informations de mon compte.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_address_book</key>
+      <value><![CDATA[Afficher ou modifier les entrées de mon carnet d'adresses.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_password</key>
+      <value><![CDATA[Changer mon mot de passe.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_title</key>
+      <value><![CDATA[Mes Commandes]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_view</key>
+      <value><![CDATA[Voir les commandes que j'ai faites.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_title</key>
+      <value><![CDATA[Mes Alertes]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_newsletters</key>
+      <value><![CDATA[S'abonner ou se désabonner de la newsletter.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_products</key>
+      <value><![CDATA[Afficher et modifier ma liste de notification produit.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_password_title</key>
+      <value><![CDATA[Mon mot de passe]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number</key>
+      <value><![CDATA[N° de Commande:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>checkout_order_number</key>
+      <value><![CDATA[Commande N°]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>checkout_order_id</key>
+      <value><![CDATA[ID ce Commande]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>order_status</key>
+      <value><![CDATA[Statut de la Commande:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date</key>
+      <value><![CDATA[Date de la Commande:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_shipped_to</key>
+      <value><![CDATA[Livré pour:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_billed_to</key>
+      <value><![CDATA[Facturé à:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_products</key>
+      <value><![CDATA[Produits:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_cost</key>
+      <value><![CDATA[Tarif de la Commande:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_orders_made_yet</key>
+      <value><![CDATA[Vous n'avez pas encore effectué de rachat.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number_heading</key>
+      <value><![CDATA[Commande N°%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date_heading</key>
+      <value><![CDATA[Date de la Commande:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_total_heading</key>
+      <value><![CDATA[Total de la Commande:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_history_heading</key>
+      <value><![CDATA[Historique des Commandes]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_heading</key>
+      <value><![CDATA[Télécharger le Lien]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_link_expires</key>
+      <value><![CDATA[Le lien expires le: %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_counter_remaining</key>
+      <value><![CDATA[Autres téléchargements]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_subscriptions_heading</key>
+      <value><![CDATA[Mes abonnements à la Newletter]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general</key>
+      <value><![CDATA[Toutes les Newletter]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general_description</key>
+      <value><![CDATA[Y compris les nouvelles boutique, nouveaux produits, offres spéciales, ainsi que d'autres annonces promotionnelles.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications</key>
+      <value><![CDATA[Mes Alertes produit]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_description</key>
+      <value><![CDATA[La liste de notification de produit vous permet de rester à jour sur les produits que vous trouvez intéressant.<br/><br/>Pour être à jour sur toutes les modifications apportées au produit, sélectionnez <b>Notifications de produits Global</b>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global</key>
+      <value><![CDATA[Notifications de produits Global]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global_description</key>
+      <value><![CDATA[Recevez les notifications sur tous les produits disponibles.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products</key>
+      <value><![CDATA[Notifications produit]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_description</key>
+      <value><![CDATA[Pour supprimer une notification de produit, désactivez la case à cocher les produits et cliquez sur Continuer.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_none</key>
+      <value><![CDATA[Il n'y a actuellement aucun produit marqué pour être notifié. <br /> <br /> Pour ajouter des produits à votre liste de notification de produit, cliquez sur le lien de notification disponible sur la page d'information détaillée du produit.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_title</key>
+      <value><![CDATA[Adresse principale]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_description</key>
+      <value><![CDATA[<p>Cette adresse est utilisée comme etant l'adresse par défaut pour la facturation des commandes passées sur ce magasin. </ P> Cette adresse est également utilisée comme base pour le calcul des taxes des produits et services.</p>]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_title</key>
+      <value><![CDATA[Carnet d'adresses]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_marker</key>
+      <value><![CDATA[(Premi&egravere adresse)]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_maximum_entries</key>
+      <value><![CDATA[<font color="#ff0000"><b>NOTE:</b></font> Un maximum de %s adresse dans votre carnet est autorisées.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_title</key>
+      <value><![CDATA[Effacer adresse]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_description</key>
+      <value><![CDATA[Etes-vous s&ucirc;r que vous souhaitez supprimer l'adresse sélectionnée à partir de votre carnet d'adresses?]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_new_address_title</key>
+      <value><![CDATA[Nouvelle adresse]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>selected_address_title</key>
+      <value><![CDATA[Selectionner une addresse]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>set_as_primary</key>
+      <value><![CDATA[Définir comme adresse principale.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_heading</key>
+      <value><![CDATA[Déclaration de confidentialité]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_description</key>
+      <value><![CDATA[S'il vous plaît reconnaissez que vous êtes d'accord avec notre déclaration de confidentialité en cochant la case.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_confirm</key>
+      <value><![CDATA[J'ai lu et j'accepte votre déclaration de confidentialité <a href="%s">(ICI)</a>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten_heading</key>
+      <value><![CDATA[Mot de passe oublié]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten</key>
+      <value><![CDATA[Si vous avez oublié votre mot de passe, entrez votre adresse e-mail ci-dessous et nous vous enverrons un courrier électronique contenant votre nouveau mot de passe.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_subject</key>
+      <value><![CDATA[Bienvenue sur %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_body</key>
+      <value><![CDATA[Nous vous invitons %s!
+
+Vous pouvez maintenant prendre part dans les différents services que nous vous proposons pour vous. Certains de ces services comprennent:
+
+<li> Panier permanent - Tous les produits ajoutés à votre panier en ligne y rester jusqu'à ce que vous les supprimiez ou les vérifier.
+<li> Carnet d'adresses  - Nous pouvons maintenant livrer vos produits à une autre adresse que la v&ocirc;tre! C'est parfait pour envoyer des cadeaux d'anniversaire directs à l'anniversaire-personne elle-même.
+<li> Historique des commandes - Afficher votre historique des achats que vous avez effectués avec nous.
+<li> Avis Produits - Partagez vos opinions sur les produits avec nos autres clients.
+
+Pour de l'aide avec n'importe lequel de nos services en ligne, s'il vous plaît envoyez un mail a: %s.
+
+Remarque: Cet e-mail nous a èté donné par l'un de nos clients. Si vous n'avez pas enregistrez-vous pour être membre, s'il vous plaît envoyez nous un Mail.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_male</key>
+      <value><![CDATA[Monsieur %s,]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_female</key>
+      <value><![CDATA[Madame %s,]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_unknown</key>
+      <value><![CDATA[Madame %s,]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_subject</key>
+      <value><![CDATA[Rappel de mot de passe %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_body</key>
+      <value><![CDATA[Un nouveau mot de passe a été demandé par %s.
+
+Votre nouveau mot de passe est:  %s
+
+%s
+
+Pour de l'aide avec n'importe lequel de nos services en ligne, s'il vous plaît envoyez-nous un Mail: %s.
+
+Remarque: Si vous n'avez pas demandé cette action par l'intermédiaire de page d'oublie de votre mot de passe, s'il vous plaît aviser le propriétaire du magasin le plus tôt possible.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_created</key>
+      <value><![CDATA[Félicitations! Votre nouveau compte a été créé avec succés! Vous pouvez maintenant profiter des priviléges des membres afin d'améliorer votre expérience de magasinage en ligne avec nous. Si vous avez des questions sur le fonctionnement de cette boutique en ligne, s'il vous plaît envoyez-nous<a href="%s"> un Mail </ a>.<br /><br />Une confirmation a été envoyé à l'adresse e-mail fournie . Si vous ne l'avez pas reçu dans l'heure, s'il vous plaît contactez-nous.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_updated</key>
+      <value><![CDATA[Votre compte a été mis à jour!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_updated</key>
+      <value><![CDATA[Votre mot de passe a été mis à jour!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_newsletter_updated</key>
+      <value><![CDATA[Vos abonnements a la newsletter a été mis à jour!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_notifications_updated</key>
+      <value><![CDATA[Vos Alertes produits ont été mis à jour!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_deleted</key>
+      <value><![CDATA[L'adresse sélectionnée a été correctement supprimé de votre carnet d'adresses.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_updated</key>
+      <value><![CDATA[Votre carnet d'adresses a été mis à jour.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_forgotten_sent</key>
+      <value><![CDATA[Succés: Un nouveau mot de passe a été envoyé à votre adresse e-mail.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_primary_address_deletion</key>
+      <value><![CDATA[L'adresse principale ne peut pas être supprimé. S'il vous plaît mettre une autre adresse comme adresse principale et essayez à nouveau.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_current_password_not_matching</key>
+      <value><![CDATA[Votre mot de passe actuel ne correspond pas celui que nous connaissons. S'il vous plaît essayez de nouveau.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_entry_non_existing</key>
+      <value><![CDATA[Cette adresse n'existe pas.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_full</key>
+      <value><![CDATA[Votre carnet d'adresses est plein. S'il vous plaît supprimer une adresse inutiles pour en sauver une nouvelle.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_password_forgotten_no_email_address_found</key>
+      <value><![CDATA[Erreur: L'adresse E-Mail n'a pas été trouvé dans nos dossiers, s'il vous plaît essayez de nouveau.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_install_directory_exists</key>
+      <value><![CDATA[Le répertoire d'installation existe ici: %s. S'il vous plaît supprimer ce répertoire pour des raisons de sécurité.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_config_file_writeable</key>
+      <value><![CDATA[Je suis capable d'écrire dans le fichier de configuration: %s. Ceci est un risque potentiel pour la sécurité - s'il vous plaît définir les bonnes permissions sur ce fichier.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_non_existent</key>
+      <value><![CDATA[Le répertoire de session n'existe pas: %s. Les sessions ne fonctionneront pas tant que ce répertoire ne sera pas créé.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_not_writeable</key>
+      <value><![CDATA[Je ne suis pas en mesure d'écrire dans le répertoire de session: %s. Sessions ne fonctionnera pas jusqu'à ce que les bonnes permissions sont définies.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_auto_start</key>
+      <value><![CDATA[session.auto_start est activé - s'il vous plaît désactiver cette fonction php dans php.ini et redémarrez le serveur Web.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_download_directory_non_existent</key>
+      <value><![CDATA[Le répertoire de téléchargement des produits n'existe pas: %s. Le téléchargement de produits ne fonctionnera qu'avec un répertoire valide.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout</key>
+      <value><![CDATA[Commander]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shopping_cart</key>
+      <value><![CDATA[Panier]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping</key>
+      <value><![CDATA[Mode de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping_address</key>
+      <value><![CDATA[Adresse de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment</key>
+      <value><![CDATA[Mode de paiement]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment_address</key>
+      <value><![CDATA[Adresse de paiement]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_confirmation</key>
+      <value><![CDATA[Confirmation]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_success</key>
+      <value><![CDATA[Succés!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_heading</key>
+      <value><![CDATA[Panier]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_heading</key>
+      <value><![CDATA[Mode de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_heading</key>
+      <value><![CDATA[Adresse de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_heading</key>
+      <value><![CDATA[Mode de paiement]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_address_heading</key>
+      <value><![CDATA[Adresse de paiement]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>confirmation_heading</key>
+      <value><![CDATA[Confirmation]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>success_heading</key>
+      <value><![CDATA[Je vous remercie! Votre commande est terminée.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_title</key>
+      <value><![CDATA[Adresse de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_coupon_tip</key>
+      <value><![CDATA[Vous serez en mesure d'appliquer le code coupon que vous avez reçu sur la page de confirmation.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>ship_to_address</key>
+      <value><![CDATA[Livré à]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>bill_to_address</key>
+      <value><![CDATA[Facturé à]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_destination</key>
+      <value><![CDATA[S'il vous plaît choisissez l'adresses à laquel vous souhaitez que les articles soient livrer.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_shipping_destination</key>
+      <value><![CDATA[C'est l'adresse de livraison sélectionné o&ograve; vous recevrez cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_shipping_address_title</key>
+      <value><![CDATA[Adresse de livraison:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>please_select</key>
+      <value><![CDATA[S'il vous plaît sélectionner]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_title</key>
+      <value><![CDATA[Méthode d'expédition]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_method</key>
+      <value><![CDATA[S'il vous plaît sélectionner le mode de livraison préféré à utiliser avec cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_shipping_method_available</key>
+      <value><![CDATA[This is currently the only shipping method available to use on this order.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_comment_to_order_title</key>
+      <value><![CDATA[Ajouter une note à cet Commande]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_comment_title</key>
+      <value><![CDATA[Commentaire Commande]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>add_first_address</key>
+      <value><![CDATA[Aucune. S.V.P. entrer une adresse.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>order_comment_none</key>
+      <value><![CDATA[Aucune.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>order_totals_title</key>
+      <value><![CDATA[Total de la commandes]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>address_book_entries_title</key>
+      <value><![CDATA[Carnet d'adresses]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_shipping_destination</key>
+      <value><![CDATA[S'il vous plaît sélectionner l'adresse d'expédition préférée si les éléments de cet ordre doivent être livrés ailleurs.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_billing_destination</key>
+      <value><![CDATA[S'il vous plaît sélectionner l'adresse de facturation préféré si la facture pour cette commande doit être livrée ailleurs.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address_title</key>
+      <value><![CDATA[Nouvelle adresse de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address</key>
+      <value><![CDATA[S'il vous plaît utiliser le formulaire ci-dessous pour créer une nouvelle adresse de livraison à utiliser pour cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address_title</key>
+      <value><![CDATA[Nouvelle adresse de facturation]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address</key>
+      <value><![CDATA[S'il vous plaît utiliser le formulaire ci-dessous pour créer une nouvelle adresse de facturation à utiliser pour cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>billing_address_title</key>
+      <value><![CDATA[Adresse de facturation]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_billing_destination</key>
+      <value><![CDATA[C'est l'adresse de facturation actuellement sélectionné lorsque la facture de cette commande sera livrée.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_billing_destination</key>
+      <value><![CDATA[S'il vous plaît choisissez l'adresse o&ograve; vous souhaitez recevoire votre facture.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_billing_address_title</key>
+      <value><![CDATA[Adresse de facturation:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_title</key>
+      <value><![CDATA[Continuer Procédure de vérification]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout</key>
+      <value><![CDATA[Continuer votre commande]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_shipping</key>
+      <value><![CDATA[pour sélectionner le mode de livraison.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_payment</key>
+      <value><![CDATA[pour sélectionner le mode de paiement préféré.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_confirmation</key>
+      <value><![CDATA[de confirmer cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_empty</key>
+      <value><![CDATA[Votre panier est vide!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>subtotal_title</key>
+      <value><![CDATA[Sous-Total:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>total_title</key>
+      <value><![CDATA[Total:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_not_possible</key>
+      <value><![CDATA[Les produits marqués avec %s n'existe pas dans la quantité souhaitée dans notre stock.<br />Veuillez modifier la quantité des produits marqués.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_possible</key>
+      <value><![CDATA[Les produits marqués avec %s n'existe pas dans la quantité souhaitée dans notre stock.<br />Vous pouvez les acheter de toute façon et vérifier la quantité que nous avons en stock pour une livraison immédiate dans le processus de commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_title</key>
+      <value><![CDATA[Conditions générales de vente]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_description</key>
+      <value><![CDATA[S'il vous plaît reconnaissez les conditions liées à cette commande en cochant la case ci-dessous. Les termes et conditions peuvent être lues <a href="%s"><u>ICI</u></a>.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_acknowledge</key>
+      <value><![CDATA[J'accepte les <a href="info.php?conditions"><b>C.G.V.</b></a>]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_title</key>
+      <value><![CDATA[Metode de paiement]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_payment_method</key>
+      <value><![CDATA[S'il vous plaît sélectionner le mode de paiement préféré à utiliser pour cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_payment_method_available</key>
+      <value><![CDATA[C'est actuellement la seule méthode de paiement disponibles à utiliser pour cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_delivery_address_title</key>
+      <value><![CDATA[Adresse de livraison]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_shipping_method_title</key>
+      <value><![CDATA[Mode de livraison]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_products_title</key>
+      <value><![CDATA[Produits]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_tax_title</key>
+      <value><![CDATA[T.V.A.]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_total_title</key>
+      <value><![CDATA[Total]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_totals_title</key>
+      <value><![CDATA[Total de commande]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>billable_address_checkbox</key>
+      <value><![CDATA[C'est aussi mon adresse de facturation]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>order_billing_address_title</key>
+      <value><![CDATA[Adresse de facturation]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_method_title</key>
+      <value><![CDATA[Mode de paiement]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_information_title</key>
+      <value><![CDATA[Information de paiement]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_comments_title</key>
+      <value><![CDATA[Commentaires ajoutés à votre commande]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_text_edit_title</key>
+      <value><![CDATA[(editer)]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>email_order_subject</key>
+      <value><![CDATA[Processus de commande]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_comment_title</key>
+      <value><![CDATA[Commantaire de commande]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>discount_code_title</key>
+      <value><![CDATA[Code remise]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_order_number</key>
+      <value><![CDATA[N° decommande: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_invoice_url</key>
+      <value><![CDATA[Facture détaillée: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_date_ordered</key>
+      <value><![CDATA[Date de commande: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_status</key>
+      <value><![CDATA[Statut de votre commande: %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_products</key>
+      <value><![CDATA[Produits]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_delivery_address</key>
+      <value><![CDATA[Adresse de livraison]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_billing_address</key>
+      <value><![CDATA[Adresse de facturation]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_payment_method</key>
+      <value><![CDATA[Mode de paiement]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_separator</key>
+      <value><![CDATA[------------------------------------------------------]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_processed_successfully</key>
+      <value><![CDATA[Votre commande a été traitée avec succ&egraves! Vos produits arriveront à destination dans les 2-5 jours ouvrables.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_selection_to_product_notifications</key>
+      <value><![CDATA[S'il vous plaît me notifier des mises à jour des produits que j'ai choisis ci-dessous:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>view_order_history</key>
+      <value><![CDATA[Vous pouvez consulter votre historique de commande en allant dans <a href="%s">votre compte</a> et en allant sur la <a href="%s">page historique</a>.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>contact_store_owner</key>
+      <value><![CDATA[S'il vous plaît adresser toutes vos questions à notre <a href="%s">commercial</a>.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>thanks_for_shopping_with_us</key>
+      <value><![CDATA[Merci d'avoir éffectué vos achats sur notre boutique en ligne!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>download_footer</key>
+      <value><![CDATA[Vous pouvez également télécharger vos produits à une date ultérieure au %s]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_information</key>
+      <value><![CDATA[Information]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_conditions</key>
+      <value><![CDATA[Conditions]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_contact</key>
+      <value><![CDATA[Contacte]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_privacy</key>
+      <value><![CDATA[Vie privée]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shipping</key>
+      <value><![CDATA[Livraison]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sitemap</key>
+      <value><![CDATA[Plan du site]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_cookie_usage</key>
+      <value><![CDATA[Utilisation des cookies]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>text_information_cookie_usage</key>
+      <value><![CDATA[Nous avons détecté que votre navigateur n'accepte pas les cookies, ou la fonction cookies est désactivée.<br /><br />Pour continuer les achats nous vous enjoignons d'activer les cookies sur votre navigateur.<br /><br/>pour <b> Internet Explorer </b>navigateurs, s'il vous plaît suivez les instructions suivantes:<br /><ol><li>Cliquez sur le menu Outils et sélectionnez Options Internet </li><li>Sélectionnez l'onglet Sécurité, et restaurez le niveau de sécurité à Moyen</li></ol>Nous avons pris cette mesure de sécurité pour votre avantage et faisons des excuses ouvertes si n'importe quels inconvénients sont causés.<br /><br />Veuillez contacter le propriétaire du magasin si vous avez des des questions touchant à cette condition, ou continuez vos achats en ligne.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_ssl_check</key>
+      <value><![CDATA[Contr&ocirc;le de sécurité]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_heading</key>
+      <value><![CDATA[Information et Aide]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_conditions_heading</key>
+      <value><![CDATA[C.G.V.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_contact_heading</key>
+      <value><![CDATA[Contacte]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_privacy_heading</key>
+      <value><![CDATA[Confidentialité]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_shipping_heading</key>
+      <value><![CDATA[Livraison et retours]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_sitemap_heading</key>
+      <value><![CDATA[Plan du site]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_cookie_usage_heading</key>
+      <value><![CDATA[Utilisation des cookies]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_ssl_check_heading</key>
+      <value><![CDATA[Contr&ocirc;le de sécurité]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>conditions</key>
+      <value><![CDATA[Mettez ici les informations requises.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact</key>
+      <value><![CDATA[Mettez ici les informations requises.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>privacy</key>
+      <value><![CDATA[Mettez ici les informations requises.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value><![CDATA[Mettez ici les informations requises.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage</key>
+      <value><![CDATA[Les cookies doivent être activés pour acheter en ligne sur ce magasin pour des questions de confidentialité et de sécurité concernant votre visite sur ce site.<br /><br />En activant les cookies dans votre navigateur, la communication entre vous et ce site est renforcée pour être certain que c'est vous qui faites des transactions pour votre propre défense et empêcher la fuite de vos information de vie privée.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check</key>
+      <value><![CDATA[Nous avons détecté que votre navigateur a généré un ID de session SSL différent que celui utilisée dans nos pages sécurisées. <br /><br />Ceci est obligatoire pour que les mesures de sécurité dont vous aurez besoin pour vous connecter à votre compte soit optimal pour continuer vos achats en ligne.<br /><br />Certains navigateurs plus anciens n'ont pas la capacité de générer un ID de session SSL sécurisée automatiquement dont nous avons besoin. Si vous utilisez un tel navigateur, nous vous conseillons de passer à un autre navigateur tel que <a href="http://www.microsoft.com/ie/" target="_blank"> Microsoft Internet Explorer </ a>, <a href = "http://www.mozilla.com/firefox/" target = "_blank"> Firefox </ a> ou <a href="http://www.opera.com" target="_blank"> Opéra </ a> pour continuer vos achats en ligne.<br /><br />Nous avons pris cette mesure de sécurité pour vous assurez une securité renforcée et nous vous faisons des excuses si n'importe quels inconvénients vous sont causés.<br /><br />Veuillez contacter le propriétaire du magasin si vous avez des questions touchant à cette condition, ou continuez vos achats en ligne. ]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_title</key>
+      <value><![CDATA[Coordonnées]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_store_address_title</key>
+      <value><![CDATA[Adresse du magasin]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_name_title</key>
+      <value><![CDATA[Nom et Prénom:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_address_title</key>
+      <value><![CDATA[Adresse Mail:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_enquiry_title</key>
+      <value><![CDATA[Demande:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_sent_successfully</key>
+      <value><![CDATA[Votre demande a bien été transmis au propriétaire du magasin.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_subject</key>
+      <value><![CDATA[Demande de comtacte]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account</key>
+      <value><![CDATA[Mon compte]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_edit</key>
+      <value><![CDATA[Informations sur le compte]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_address_book</key>
+      <value><![CDATA[Carnet d'adresses]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_history</key>
+      <value><![CDATA[Historique des commandes]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_notifications</key>
+      <value><![CDATA[Abonnement à la Newsletter]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_shopping_cart</key>
+      <value><![CDATA[Panier]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_checkout_shipping</key>
+      <value><![CDATA[Commander]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_advanced_search</key>
+      <value><![CDATA[Recherche avancée]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_products_new</key>
+      <value><![CDATA[Nouveaux produits]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_specials</key>
+      <value><![CDATA[Promotions]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_reviews</key>
+      <value><![CDATA[Commentaires]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_heading</key>
+      <value><![CDATA[Sécurité et confidentialité des cookies]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_contents</key>
+      <value><![CDATA[Les cookies doivent être activés pour acheter en ligne sur ce magasin pour des questions de confidentialité et de sécurité concernant votre visite sur ce site.<br /><br />En activant les cookies dans votre navigateur, la communication entre vous et ce site est renforcée pour être certain que c'est vous qui faites des transactions pour votre propre défense et empêcher la fuite de vos information de vie privée.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_heading</key>
+      <value><![CDATA[Confidentialité et sécurité]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_contents</key>
+      <value><![CDATA[Nous validons l'ID de session SSL généré automatiquement par votre navigateur sur chaque demande de page sécurisée faite à ce serveur.<br /><br />Cette validation assure que c'est vous qui naviguez sur ce site avec votre compte et pas quelqu'un d'autre.]]></value>
+      <group>info</group>
+    </definition>  
+    <definition>
+      <key>product_variant_in_stock</key>
+      <value><![CDATA[En Stock]]></value>
+      <group>products</group>
+    </definition>  
+    <definition>
+      <key>variant_combo_not_available</key>
+      <value><![CDATA[Non disponible dans cette combinaison. S'il vous plaît sélectionner une autre combinaison pour votre commande.]]></value>
+      <group>products</group>
+    </definition>     
+    <definition>
+      <key>breadcrumb_new_products</key>
+      <value><![CDATA[Nouveaux produits]]></value>
+      <group>products</group>
+    </definition> 
+    <definition>
+      <key>no_new_specials</key>
+      <value><![CDATA[Il n'y a aucune promos disponibles.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_specials</key>
+      <value><![CDATA[Promotion]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews</key>
+      <value><![CDATA[Commentaire]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews_new</key>
+      <value><![CDATA[Nouveau Commentaire]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_tell_a_friend</key>
+      <value><![CDATA[Avertir un ami]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found_heading</key>
+      <value><![CDATA[Produit non trouvé]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_new_products</key>
+      <value><![CDATA[Il n'y a actuellement pas de produits disponibles.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_products_heading</key>
+      <value><![CDATA[Nouveaux produits]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>specials_heading</key>
+      <value><![CDATA[Promotions]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>reviews_heading</key>
+      <value><![CDATA[Commentaires]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found</key>
+      <value><![CDATA[Produit non trouvé!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>add_to_wishlist</key>
+      <value><![CDATA[Ajouter à la liste d'envies]]></value>
+      <group>general</group>
+    </definition>    
+    <definition>
+      <key>number_of_product_reviews</key>
+      <value><![CDATA[Critiques actuelles:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>go_to_external_products_webpage</key>
+      <value><![CDATA[Pour plus d'informations, s'il vous plaît visitez <a href="%s" target="_blank">la page</a> de ce produit.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_availability</key>
+      <value><![CDATA[<font color="#ff0000">Ce produit sera en stock le %s.</font>]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_attributes</key>
+      <value><![CDATA[Options disponibles:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>enlarge_image</key>
+      <value><![CDATA[Clickez pour agrandire]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_added</key>
+      <value><![CDATA[Date d'ajout:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>manufacturer</key>
+      <value><![CDATA[Manufacturer:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>price</key>
+      <value><![CDATA[Prix:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>average_rating</key>
+      <value><![CDATA[Moyenne des notes]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>rating_of_5_stars</key>
+      <value><![CDATA[%s sur 5 étoiles!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_reviews_available</key>
+      <value><![CDATA[Aucun commentaire trouvé.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_review_title</key>
+      <value><![CDATA[Nouveau commentaire]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_rating</key>
+      <value><![CDATA[Classement:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_from</key>
+      <value><![CDATA[De la part de:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_lowest_rating_title</key>
+      <value><![CDATA[Mauvais]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_highest_rating_title</key>
+      <value><![CDATA[Bon]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>customer_details_title</key>
+      <value><![CDATA[Vos Détails]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>friend_details_title</key>
+      <value><![CDATA[Les détails de votre ami]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>tell_a_friend_message</key>
+      <value><![CDATA[Votre Message]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_name</key>
+      <value><![CDATA[Votre Nom:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_email_address</key>
+      <value><![CDATA[Votre adresse Mail:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_name</key>
+      <value><![CDATA[Le Nom de votre ami:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_email_address</key>
+      <value><![CDATA[L'adresse Mail de votre ami:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_subject</key>
+      <value><![CDATA[Votre ami %s a recommandé cet excellent produit à partir de %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_intro</key>
+      <value><![CDATA[Bonjour %s!
+
+Votre ami %s, a pensé que vous seriez peut-&egravetre intéressé par %s de %s.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_link</key>
+      <value><![CDATA[Pour afficher le produits, cliquez sur le lien ci-dessous ou copiez et collez le lien dans votre navigateur:
+
+%s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_signature</key>
+      <value><![CDATA[Cordialement, %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_new</key>
+      <value><![CDATA[Merci pour votre avis! Il a été reçu et est maintenant activé!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_moderation</key>
+      <value><![CDATA[Merci pour votre avis! Il a été reçu et est en attente d'approbation.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_tell_a_friend_email_sent</key>
+      <value><![CDATA[Votre e-mail %s a été envoyé avec succ&egraves à %s.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_friends_name_empty</key>
+      <value><![CDATA[Erreur: Le nom de votre ami ne doit pas être vide.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_friends_email_address</key>
+      <value><![CDATA[Erreur: Votre adresse e-mail doit être une adresse électronique valide.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_customers_name_empty</key>
+      <value><![CDATA[Erreur: Votre nom ne doit pas être vide.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_customers_email_address</key>
+      <value><![CDATA[Erreur: Votre adresse e-mail doit être une adresse électronique valide.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search</key>
+      <value><![CDATA[Recherche]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search_results</key>
+      <value><![CDATA[Résultats]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_heading</key>
+      <value><![CDATA[Recherche]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>advanced_search_heading</key>
+      <value><![CDATA[Recherche avancée]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_results_heading</key>
+      <value><![CDATA[Résultats de la recherche]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_criteria_title</key>
+      <value><![CDATA[Crit&egraveres de recherche]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_categories</key>
+      <value><![CDATA[Catégories:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_recursive</key>
+      <value><![CDATA[Inclure les sous-catégories]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_manufacturers</key>
+      <value><![CDATA[Manufacturers:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_from</key>
+      <value><![CDATA[Prix à partir de:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_to</key>
+      <value><![CDATA[Prix de:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_from</key>
+      <value><![CDATA[Date à partir de:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_to</key>
+      <value><![CDATA[Date de:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_tips</key>
+      <value><![CDATA[Aide pour la recherche]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_heading</key>
+      <value><![CDATA[Aide pour la recherche]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help</key>
+      <value><![CDATA[Mots-clés peuvent être séparés par AND et/ou OR pour un meilleur contr&ocirc;le des résultats de la recherche.<br /><br />Par exemple, <u> Microsoft AND souris </u> générerait un jeu de résultats qui contiennent les deux mots. Cependant, pour <u> souris OR clavier </u>, le jeu de résultats retourné contiendrait les deux ou l'un des mots.<br /><br />Les correspondances exactes peuvent être recherchés en l'encadrant de guillemets doubles.<br / ><br />Par exemple, <u> "ordinateur portable" </u> générerait un jeu de résultats qui correspondent à la chaîne exacte.<br /><br />Les parenth&egraveses peuvent être utilisées pour contr&ocirc;ler le jeu de résultats.<br /><br />Par exemple, Microsoft et <u> (clavier ou souris ou "visual basic") </u>.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>close_window</key>
+      <value><![CDATA[Fermer fen&egravetre]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_search_at_least_one_input</key>
+      <value><![CDATA[Au moins un des champs dans le formulaire de recherche doient être entrés.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_from_date</key>
+      <value><![CDATA[Date invalide.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_to_date</key>
+      <value><![CDATA[Date invalide.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_to_date_less_than_from_date</key>
+      <value><![CDATA[Le jour doit être supérieure ou égale à la date du jour en cour.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_from_not_numeric</key>
+      <value><![CDATA[Le prix doit être un nombre.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_not_numeric</key>
+      <value><![CDATA[Le prix doit être un nombre.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_less_than_price_from</key>
+      <value><![CDATA[Price To must be greater than or equal to Price From.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_keywords</key>
+      <value><![CDATA[Mots-clés invalides.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>js_review_text</key>
+      <value><![CDATA[* Ce texte doit comporter au moins %s caract&egraveres.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_review_rating</key>
+      <value><![CDATA[* Vous devez évaluer ce produit.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_no_payment_module_selected</key>
+      <value><![CDATA[* S'il vous plaît sélectionner un mode de paiement de votre commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_no_payment_module_selected</key>
+      <value><![CDATA[S'il vous plaît sélectionner un mode de paiement de votre commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_conditions_not_accepted</key>
+      <value><![CDATA[S'il vous plaît confirmer les C.G.V. liés à cette commande.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_privacy_statement_not_accepted</key>
+      <value><![CDATA[S'il vous plaît confirmer votre acceptation des C.G.V. en cochant la case ci-dessous.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender</key>
+      <value><![CDATA[Sexe:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender_error</key>
+      <value><![CDATA[S'il vous plaît sélectionner votre sexe.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name</key>
+      <value><![CDATA[Prénom:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name_error</key>
+      <value><![CDATA[Votre prénom doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name</key>
+      <value><![CDATA[Nom:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name_error</key>
+      <value><![CDATA[Votre nom doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth</key>
+      <value><![CDATA[Date de naissance:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth_error</key>
+      <value><![CDATA[Votre date de naissance doit être correctement formatée.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address</key>
+      <value><![CDATA[Adresse Mail:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_error</key>
+      <value><![CDATA[Votre adresse e-mail doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_check_error</key>
+      <value><![CDATA[Votre e-mail ne semble pas être valide - s'il vous plaît apporter les corrections nécessaires.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_exists_error</key>
+      <value><![CDATA[Votre adresse e-mail existe déjà dans nos dossiers, pour vous connecter ou créer un compte, utilisez une adresse différente!!!.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company</key>
+      <value><![CDATA[Nom de votre entreprise:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company_error</key>
+      <value><![CDATA[Votre Nom de l'entreprise doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address</key>
+      <value><![CDATA[Addresse:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address_error</key>
+      <value><![CDATA[Votre Adresse doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb</key>
+      <value><![CDATA[Sous-Adresse:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb_error</key>
+      <value><![CDATA[Votre sous adresse doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code</key>
+      <value><![CDATA[Code Postal:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code_error</key>
+      <value><![CDATA[Votre code postal doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city</key>
+      <value><![CDATA[Ville:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city_error</key>
+      <value><![CDATA[Votre ville doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state</key>
+      <value><![CDATA[Etat/Province:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_error</key>
+      <value><![CDATA[Votre ʴat doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_select_pull_down_error</key>
+      <value><![CDATA[S'il vous plaît sélectionner un état dans le menu déroulant.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country</key>
+      <value><![CDATA[Pays:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country_error</key>
+      <value><![CDATA[Vous devez sélectionner un pays dans le menu déroulant.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number</key>
+      <value><![CDATA[Numéro de téléphone:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number_error</key>
+      <value><![CDATA[Votre numéro de téléphone doit contenir un minium de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number</key>
+      <value><![CDATA[Fax Number:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number_error</key>
+      <value><![CDATA[Votre numéro de télécopie doit contenir un minium de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_newsletter</key>
+      <value><![CDATA[S'inscrire à la Newsletter?]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password</key>
+      <value><![CDATA[Mot de passe:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_error</key>
+      <value><![CDATA[Votre nouveau mot de passe doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_mismatch_with_confirmation</key>
+      <value><![CDATA[La Confirmation du mot de passe doit correspondre à votre nouveau mot de passe principale.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_confirmation</key>
+      <value><![CDATA[Confirmation mot de passe:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current</key>
+      <value><![CDATA[Mot de passe actuel:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current_error</key>
+      <value><![CDATA[Votre nouveau mot de passe doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new</key>
+      <value><![CDATA[Nouveau mot de passe:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_error</key>
+      <value><![CDATA[Votre nouveau mot de passe doit contenir un minimum de %s caract&egraveres.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_mismatch_with_confirmation_error</key>
+      <value><![CDATA[La Confirmation du mot de passe doit correspondre à votre nouveau mot de passe principale.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>reviewed_by</key>
+      <value><![CDATA[par %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_rating</key>
+      <value><![CDATA[Evaluation: %s [%s]]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_date_added</key>
+      <value><![CDATA[Date d'ajout: %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>credit_card_number_error</key>
+      <value><![CDATA[Le numéro de carte de crédit entré n'est pas valide.<br />Veuillez vérifier le numéro et essayez de nouveau.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>maximum_file_upload_size</key>
+      <value><![CDATA[(Max: %s)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>image_not_found</key>
+      <value><![CDATA[Aucune image disponible]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_information_shipping</key>
+      <value><![CDATA[Les informations sur l'expédition se place ici.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>text_information_privacy</key>
+      <value><![CDATA[Les informations de confidentialité se place ici.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>text_information_conditions</key>
+      <value><![CDATA[Les information sur les C.G.V. se place ici.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_inquiry_title</key>
+      <value><![CDATA[Information:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_cart_items</key>
+      <value><![CDATA[Articles]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_cart_item</key>
+      <value><![CDATA[Article]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_add_to_cart_quantity</key>
+      <value><![CDATA[Quantitée:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>description</key>
+      <value><![CDATA[Description]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>additional_images</key>
+      <value><![CDATA[Images suivante]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>more_information</key>
+      <value><![CDATA[Suivant]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_information_ssl_check</key>
+      <value><![CDATA[Nous avons détecté que votre navigateur a généré un ID de session SSL différent que celui utilisée dans nos pages sécurisées. <br /><br />Ceci est obligatoire pour que les mesures de sécurité dont vous aurez besoin pour vous connecter à votre compte soit optimal pour continuer vos achats en ligne.<br /><br />Certains navigateurs plus anciens n'ont pas la capacité de générer un ID de session SSL sécurisée automatiquement dont nous avons besoin. Si vous utilisez un tel navigateur, nous vous conseillons de passer à un autre navigateur tel que <a href="http://www.microsoft.com/ie/" target="_blank"> Microsoft Internet Explorer </ a>, <a href = "http://www.mozilla.com/firefox/" target = "_blank"> Firefox </ a> ou <a href="http://www.opera.com" target="_blank"> Opéra </ a> pour continuer vos achats en ligne.<br /><br />Nous avons pris cette mesure de sécurité pour vous assurez une securité renforcée et nous vous faisons des excuses si n'importe quels inconvénients vous sont causés.<br /><br />Veuillez contacter le propriétaire du magasin si vous avez des questions touchant à cette condition, ou continuez vos achats en ligne.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>no_additional_images_available</key>
+      <value><![CDATA[Il n'y a pas d'autres images.]]></value>
+      <group>general</group>
+    </definition> 
+    <definition>
+      <key>product_added</key>
+      <value><![CDATA[Ce produit a été ajouté à notre catalogue le %s.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_name</key>
+      <value><![CDATA[Nom:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_comments</key>
+      <value><![CDATA[Commentaire:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_write_review_first</key>
+      <value><![CDATA[Soyez le premier à écrire un commentaire!]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_write_review</key>
+      <value><![CDATA[Ecrire un commentaire.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_print</key>
+      <value><![CDATA[Imprimer]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_update</key>
+      <value><![CDATA[Mise à jour]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>cart_continue_shopping</key>
+      <value><![CDATA[Continuer mes achats]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_quantity</key>
+      <value><![CDATA[Quantitée]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_quantity_abbr</key>
+      <value><![CDATA[Qté]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_sub_total</key>
+      <value><![CDATA[Sous Total]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_unit_price</key>
+      <value><![CDATA[Prix ??de l'article]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_total</key>
+      <value><![CDATA[Total]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>cart_remove</key>
+      <value><![CDATA[Enlever]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_billing_address_title</key>
+      <value><![CDATA[Adresse de facturation]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_order_number_title</key>
+      <value><![CDATA[Commande No:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_order_date_title</key>
+      <value><![CDATA[Date d'achat:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_order_status_title</key>
+      <value><![CDATA[Statut de la commande:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_products_title</key>
+      <value><![CDATA[Description de l'Article]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_products_totals</key>
+      <value><![CDATA[Total articles]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_delivery_address_title</key>
+      <value><![CDATA[Adresse de livraison]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>receipt_payment_method_title</key>
+      <value><![CDATA[Mode de paiement]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_navigate_dropdown</key>
+      <value><![CDATA[Navigation...]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_shopping_cart</key>
+      <value><![CDATA[Panier]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>feature_not_available</key>
+      <value><![CDATA[Fonctionnalité pas encore disponible.]]></value>
+      <group>general</group>
+    </definition> 
+    <definition>
+      <key>update_message_text1</key>
+      <value><![CDATA[Please pardon our dust.  The store is temporarily offline for routine maintenance.  Please check back soon!]]></value>
+      <group>general</group>
+    </definition> 
+    <definition>
+      <key>debug_error_log_not_writeable</key>
+      <value><![CDATA[Error: Execution time log file not writeable: %s]]></value>
+      <group>general</group>
+    </definition>     
+    <definition>
+      <key>debug_customer_group</key>
+      <value><![CDATA[Customer Group: [%s] %s]]></value>
+      <group>general</group>
+    </definition>      
+    <definition>
+      <key>debug_current_template</key>
+      <value><![CDATA[Current Template: %s]]></value>
+      <group>general</group>
+    </definition>     
+    <definition>
+      <key>debug_number_of_queries</key>
+      <value><![CDATA[Number of Queries: %s [%ss]]]></value>
+      <group>general</group>
+    </definition>     
+    <definition>
+      <key>debug_exection_time</key>
+      <value><![CDATA[Execution Time: %ss]]></value>
+      <group>general</group>
+    </definition>     
+    <definition>
+      <key>debug_notice</key>
+      <value><![CDATA[You can turn off this debug display in Admin-> Settings -> Modules -> Services -> Debug]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_secure_checkout</key>
+      <value><![CDATA[Secure Payment]]></value>
+      <group>general</group>
+    </definition>    
+  </definitions>
+</language>
